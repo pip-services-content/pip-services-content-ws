@@ -1,0 +1,14 @@
+/pip-services-devenv
+
+/pip-services-quotes-node
+/pip-clients-quotes-node
+/pip-clients-quotes-dotnet
+/pip-clients-quotes-java
+/pip-clients-quotes-go
+/pip-clients-quotes-python
+
+/pip-services-tags-node
+/pip-clients-tags-node
+
+/pip-services-storage-node
+/pip-clients-storage-node
