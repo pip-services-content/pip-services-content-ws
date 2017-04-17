@@ -11,6 +11,18 @@ $VersionControlRepos = @(
 	"https://github.com/pip-services-content/pip-services-tags-node.git"
 	"https://github.com/pip-services-content/pip-clients-tags-node.git"
 
-	"https://github.com/pip-services-content/pip-services-storage-node.git"
-	"https://github.com/pip-services-content/pip-clients-storage-node.git"
+	"https://github.com/pip-services-content/pip-services-blobs-node.git"
+	"https://github.com/pip-services-content/pip-clients-blobs-node.git"
+
+	"https://github.com/pip-services-content/pip-services-attachments-node.git"
+	"https://github.com/pip-services-content/pip-clients-attachments-node.git"
+
+	"https://github.com/pip-services-content/pip-services-tips-node.git"
+	"https://github.com/pip-services-content/pip-clients-tips-node.git"
+
+	"https://github.com/pip-services-content/pip-services-guides-node.git"
+	"https://github.com/pip-services-content/pip-clients-guides-node.git"
+
+	"https://github.com/pip-services-content/pip-services-imagesets-node.git"
+	"https://github.com/pip-services-content/pip-clients-imagesets-node.git"
 )

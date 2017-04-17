@@ -13,8 +13,16 @@ The workspace enables build, test, and release across the following projects:
 - **pip-clients-quotes-go** - Client to Inspirational quotes microservice in Go
 - **pip-services-tags-node** - Search tags microservice in Node.js
 - **pip-clients-tags-node** - Client to Search tags microservice in Node.js
-- **pip-services-storage-node** - Blob storage microservice in Node.js
-- **pip-clients-storage-node** - Client to Blob storage microservice in Node.js
+- **pip-services-blobs-node** - Blob storage microservice in Node.js
+- **pip-clients-blobs-node** - Client to Blob storage microservice in Node.js
+- **pip-services-attachments-node** - File attachments microservice in Node.js
+- **pip-clients-attachments-node** - Client to File attachments microservice in Node.js
+- **pip-services-tips-node** - User tips microservice in Node.js
+- **pip-clients-tips-node** - Client to User tips microservice in Node.js
+- **pip-services-guides-node** - Application guides microservice in Node.js
+- **pip-clients-guides-node** - Client to Application guides microservice in Node.js
+- **pip-services-imagesets-node** - Image library microservice in Node.js
+- **pip-clients-imagesets-node** - Client to Image library microservice in Node.js
 
 ## Installation
 

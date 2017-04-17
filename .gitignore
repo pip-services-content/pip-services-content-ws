@@ -10,5 +10,17 @@
 /pip-services-tags-node
 /pip-clients-tags-node
 
-/pip-services-storage-node
-/pip-clients-storage-node
+/pip-services-blobs-node
+/pip-clients-blobs-node
+
+/pip-services-attachments-node
+/pip-clients-attachments-node
+
+/pip-services-tips-node
+/pip-clients-tips-node
+
+/pip-services-guides-node
+/pip-clients-guides-node
+
+/pip-services-imagesets-node
+/pip-clients-imagesets-node
