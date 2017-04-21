@@ -13,6 +13,9 @@
 /pip-services-blobs-node
 /pip-clients-blobs-node
 
+/pip-services-files-node
+/pip-clients-files-node
+
 /pip-services-attachments-node
 /pip-clients-attachments-node
 
