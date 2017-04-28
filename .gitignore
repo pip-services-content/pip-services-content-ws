@@ -10,8 +10,8 @@
 /pip-services-tags-node
 /pip-clients-tags-node
 
-/pip-services-blobs-node
-/pip-clients-blobs-node
+/pip-services-emailtemplates-node
+/pip-clients-emailtemplates-node
 
 /pip-services-files-node
 /pip-clients-files-node

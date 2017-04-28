@@ -1,7 +1,7 @@
 $global:Services = @(
     "pip-services-quotes-node"
     "pip-services-tags-node"
-    "pip-services-blobs-node"
+    "pip-services-emailtemplates-node"
     "pip-services-files-node"
     "pip-services-attachments-node"
     "pip-services-tips-node"
@@ -15,7 +15,7 @@ $global:Clients = @(
     "pip-clients-quotes-java"
     "pip-clients-quotes-go"
     "pip-clients-tags-node"
-    "pip-clients-blobs-node"
+    "pip-clients-emailtemplates-node"
     "pip-clients-files-node"
     "pip-clients-attachments-node"
     "pip-clients-tips-node"
