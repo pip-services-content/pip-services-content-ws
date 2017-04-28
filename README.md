@@ -25,6 +25,7 @@ The workspace enables build, test, and release across the following projects:
 - **pip-clients-guides-node** - Client to Application guides microservice in Node.js
 - **pip-services-imagesets-node** - Image library microservice in Node.js
 - **pip-clients-imagesets-node** - Client to Image library microservice in Node.js
+- **pip-facade-content-node** - Facade operations for content microservices in Node.js
 
 ## Installation
 
