@@ -7,6 +7,7 @@ $global:Services = @(
     "pip-services-tips-node"
     "pip-services-guides-node"
     "pip-services-imagesets-node"
+    "pip-services-dashboards-node"
     "pip-facade-content-node"
 )
 
@@ -22,4 +23,5 @@ $global:Clients = @(
     "pip-clients-tips-node"
     "pip-clients-guides-node"
     "pip-clients-imagesets-node"
+    "pip-clients-dashboards-node"
 )
