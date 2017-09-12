@@ -11,8 +11,8 @@ $VersionControlRepos = @(
 	"https://github.com/pip-services-content/pip-services-tags-node.git"
 	"https://github.com/pip-services-content/pip-clients-tags-node.git"
 
-	"https://github.com/pip-services-content/pip-services-emailtemplates-node.git"
-	"https://github.com/pip-services-content/pip-clients-emailtemplates-node.git"
+	"https://github.com/pip-services-content/pip-services-msgtemplates-node.git"
+	"https://github.com/pip-services-content/pip-clients-msgtemplates-node.git"
 
 	"https://github.com/pip-services-content/pip-services-files-node.git"
 	"https://github.com/pip-services-content/pip-clients-files-node.git"
