@@ -20,6 +20,9 @@ $VersionControlRepos = @(
 	"https://github.com/pip-services-content/pip-services-attachments-node.git"
 	"https://github.com/pip-services-content/pip-clients-attachments-node.git"
 
+	"https://github.com/pip-services-content/pip-services-applications-node.git"
+	"https://github.com/pip-services-content/pip-clients-applications-node.git"
+
 	"https://github.com/pip-services-content/pip-services-tips-node.git"
 	"https://github.com/pip-services-content/pip-clients-tips-node.git"
 
